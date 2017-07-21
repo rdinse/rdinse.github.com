@@ -1,0 +1,3 @@
+[submodule "convnet-visualizer"]
+	path = convnet-visualizer
+	url = https://github.com/rdinse/convnet-visualizer
